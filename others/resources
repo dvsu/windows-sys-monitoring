@@ -1,0 +1,4 @@
+powershell commands
+Get-WmiObject -List *memory*
+Get-WmiObject -List *disk*
+Get-CimClass *video*
